@@ -1,6 +1,6 @@
 <!-- 💤 Dashboard Preview (Top Banner) -->
 <p align="center">
-  <img src="https://github.com/sandhya-verma-aiml/SLEEP-HEALTH-LIFESTYLE-ANALYSIS/blob/main/Screenshot%202025-10-19%20064803.png" 
+  <img src="https://github.com/sandhya-verma-aiml/SLEEP-HEALTH-AND-LIFESTYLE-ANALYSIS/blob/main/Screenshot%202025-10-19%20065645.png" 
        alt="Sleep, Health and Lifestyle Dashboard Preview" 
        width="90%" 
        style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
